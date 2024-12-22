@@ -1,1 +1,1 @@
-In this code I was given a task to create program that will calculate if passenger could board a train(A B C)
+Two dates, start and end, are entered as input. First, the validity of the dates is checked. Then the program calculates the total number of days and working days between the specified dates by iterating through each year, month, and day. The result is returned as a structure, TResult, containing the total number of days (m_TotalDays) and working days (m_WorkDays).
